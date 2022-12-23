@@ -15,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="https://www.linkedin.com/in/ujjawal-tyagi-943762213/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0M3DTVdtW2lrPMABaO3B6AI-6P4R0gzjsT_KBhWmJkiG-2JXavCIZdOV8a75wnq1OjhQ&usqp=CAU" alt="tyagi_ujjawal_" height="30" width="40" /></a>
 <a href="https://instagram.com/tyagi_ujjawal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tyagi_ujjawal_" height="30" width="40" /></a>
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

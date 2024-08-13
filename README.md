@@ -9,7 +9,7 @@
 
 - 👨‍💻 Some of my projects are available at [https://github.com/TyagiiUjjawal](https://github.com/TyagiiUjjawal)
 
-- 💬 Ask me about **react,NodeJs,ExpressJs,Solidity,SmartContracts,Crypto,**
+- 💬 Ask me about **react,next,NodeJs,ExpressJs,aws,gsc,cloudRun,Solidity,SmartContracts,Crypto,**
 
 - 📫 How to reach me **ujjawaltyagi96@gmail.com**
 
